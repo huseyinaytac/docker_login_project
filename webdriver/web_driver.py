@@ -14,8 +14,7 @@ def get_webdriver(webdriver_type):
     #     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     # return driver
 
-    # selenium_grid
-
+    # selenium_grid##
         options = webdriver.FirefoxOptions()
         driver = webdriver.Remote(command_executor="http://localhost:4444/wd/hub",
                                   desired_capabilities=DesiredCapabilities.FIREFOX, options=options)
