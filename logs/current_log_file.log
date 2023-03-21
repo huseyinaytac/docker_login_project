@@ -1,0 +1,9 @@
+21/03/2023 11:09:39 PM: INFO: logger: log: ====== WebDriver manager ======
+21/03/2023 11:09:46 PM: INFO: logger: log: Get LATEST geckodriver version for 110.0 firefox
+21/03/2023 11:09:53 PM: INFO: logger: log: Driver [C:\Users\huseyin.aytac\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+21/03/2023 11:10:08 PM: INFO: login_page_steps: step_impl: Uygulamanın Url Adresi-----https://practicetestautomation.com/practice-test-login
+21/03/2023 11:10:10 PM: INFO: login_page_steps: step_impl: Kullanıcı Adı-----student
+21/03/2023 11:10:12 PM: INFO: login_page_steps: step_impl: Kullanıcı Şifresi-----Password123
+21/03/2023 11:10:14 PM: INFO: selenium_helper: is_displayed: Submit-----Görüntülenir Öğe Mevcuttur.
+21/03/2023 11:10:18 PM: INFO: selenium_helper: is_text_equal: Logged In Successfully-----Metinsel ifade Birbirini Karşılamaktadır
+21/03/2023 11:10:18 PM: ERROR: login_page_steps: step_impl: Giriş Sağlanamadı
